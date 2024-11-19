@@ -1,10 +1,8 @@
-
-
 .container {
-  position: absolute;
+  /* position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 }
 
 .container .contents {
@@ -142,7 +140,7 @@ a {
 }
 
 .contents .btn_container .like_btn.active span {
-  background: url("../assets/part03/bg05.png") no-repeat 0 -422px;
+  background: url("../assets/part04/bg05.png") no-repeat 0 -422px;
 }
 
 .contents .btn_container > button {
@@ -231,14 +229,14 @@ a {
 
 .icon--like-line {
   display: inline-block;
-  background: url("../assets/part03/bg05.png") no-repeat -38px -422px;
+  background: url("../assets/part04/bg05.png") no-repeat -38px -422px;
   width: 18px;
   height: 18px;
 }
 
 .icon--comment-line {
   display: inline-block;
-  background: url("../assets/part03/bg04.png") no-repeat -414px -246px;
+  background: url("../assets/part04/bg04.png") no-repeat -414px -246px;
   width: 17px;
   height: 17px;
 }
@@ -249,14 +247,14 @@ a {
 
 .icon--more {
   display: inline-block;
-  background: url("../assets/part03/bg03.png") no-repeat -2px -300px;
+  background: url("../assets/part04/bg03.png") no-repeat -2px -300px;
   width: 16px;
   height: 4px;
 }
 
 .icon--send {
   display: inline-block;
-  background: url("../assets/part03/bg04.png") no-repeat -433px -246px;
+  background: url("../assets/part04/bg04.png") no-repeat -433px -246px;
   width: 18px;
   height: 16px;
 }
